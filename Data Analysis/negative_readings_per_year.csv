@@ -1,0 +1,780 @@
+station,collection,year,n_negative_readings
+3,NO,2007,4
+3,NO2,2007,1
+3,NOx,2007,1
+"a. j. maias, s.a - exaustão da cabine de pintura líquida nº3",CO,2016,1
+"a. j. maias, s.a - exaustão da cabine de pintura líquida nº3",SO2,2016,1
+a.global.2007,Temperature,2007,9
+a1.este.ovar.2018,CO,2018,3
+a1.este.ovar.2018,NO,2018,1
+a1.este.rmeão.2018,NO2,2018,1
+a1.oeste.ovar.2018,NO,2018,2
+a1.oeste.rmeão.2018,CO,2018,24
+a1.oeste.rmeão.2018,NO2,2018,1
+a1.povoa.santarem.2015,PM25,2015,1
+a1.povoa.santarem.2015,Particles,2015,1
+a1.varzea.2015,PM25,2015,19
+a1.varzea.2015,Particles,2015,19
+a13_pk52+500,CO,2012,24
+a13_pk52+500,NO2,2011,1
+a13_pk52+500,WindSpeed,2011,2
+a13_pk62+300,PM10,2012,2
+a13_pk62+300,WindSpeed,2012,56
+a24.fortunho.2017,NO,2017,25
+a24.fortunho.2017,NO2,2017,5
+a24.fortunho.2017,SO2,2017,16
+a24_adenodeiro,Temperature,2006,14
+a24_arcas,Temperature,2006,24
+a24_galifonge,Temperature,2006,22
+a24_mezio,Radiation,2006,162
+a24_mezio,Temperature,2006,76
+a24_moselos,Temperature,2005,149
+a24_moucos,Radiation,2006,66
+a24_moucos,Temperature,2006,4
+a24_mouços,Radiation,2006,66
+a24_mouços,Temperature,2006,4
+a28.esposende.2008,NO,2008,13
+a28.esposende.2008,NO2,2008,15
+a28.esposende.2008,NOx,2008,13
+a28.esposende.2008,SO2,2008,47
+a29.avanca.2007,Radiation,2007,13
+a29.avanca.2010,CO,2010,1
+a29.avanca.2010,NO2,2010,1
+a2_paderne,WindDirection,2017,1
+a3.aguas.santas.este.2013,PM10,2012,12
+a3.trofa.2019,NO,2019,3
+a32.fagilde.2012,PM10,2013,4
+a32.seixo.alvo.2015,NO2,2015,1
+a4.padronelo.2012,WindSpeed,2012,100
+a42.2006,Radiation,2006,11
+a8.flamenga.2016,NO,2016,3
+a8.frielas.2015,PM25,2015,6
+a8.frielas.2015,Particles,2015,6
+a8.frielas.2015,WindSpeed,2015,267
+a8.loures.2015,WindSpeed,2015,149
+a8.montachique.2015,NO,2015,21
+a8.montachique.2015,PM10,2015,6
+a8.montachique.2015,WindDirection,2015,1
+a8.montachique.2015,WindSpeed,2015,86
+"abraches & filhos, lda - aspirção despedrador",CO,2007,1
+"abraches & filhos, lda - aspirção despedrador",NOx,2007,1
+"abraches & filhos, lda - aspirção despedrador",SO2,2007,1
+"abranches & filhos, lda - aspiração do ensaque do armazém de aditivos de rações",CO,2007,1
+"abranches & filhos, lda - aspiração do ensaque do armazém de aditivos de rações",NOx,2007,1
+"abranches & filhos, lda - aspiração do ensaque do armazém de aditivos de rações",SO2,2007,1
+"abranches & filhos, lda - aspiração limpeza do trigo",CO,2007,1
+"abranches & filhos, lda - aspiração limpeza do trigo",NOx,2007,1
+"abranches & filhos, lda - aspiração pneumático",NOx,2007,1
+"abranches & filhos, lda - aspiração pneumático",SO2,2007,1
+"abranches & filhos, lda - aspiração silo do trigo",CO,2007,1
+"abranches & filhos, lda - aspiração silo do trigo",SO2,2007,1
+"abranches & filhos, lda - aspiração silos farinha",CO,2007,1
+"abranches & filhos, lda - aspiração silos farinha",NOx,2007,1
+"abranches & filhos, lda - aspiração silos farinha",SO2,2007,1
+"abranches & filhos, lda - caldeira",SO2,2007,1
+"abranches & filhos, lda - ciclone moinho martelos",CO,2007,1
+"abranches & filhos, lda - ciclone moinho martelos",NOx,2007,1
+"abranches & filhos, lda - ciclone moinho martelos",SO2,2007,1
+"acatel - acabamentos têxteis, s. a. - râmula 1",CO,2009,1
+"acatel - acabamentos têxteis, s. a. - râmula 2 bruckner",CO,2009,1
+"acatel - acabamentos têxteis, s. a. - râmula 3 e 4",SO2,2009,1
+"acatel - acabamentos têxteis, s.a. - mesa de vaporização râmula 2",SO2,2007,1
+alcochete_1.2008,Radiation,2008,135
+alcochete_1.2008,SO2,2008,10
+"alfa sul - alumínios do sul, lda - caldeira",SO2,2015,1
+alvarroes_guarda,Temperature,2023,25
+alvarrões_guarda,Temperature,2023,25
+"ambiente - recuperação de materiais plásticos, s.a. - 5416 - extrusora",CO,2015,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - caldeira de aquecimento de termofluido (ff5)",SO2,2009,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - caldeira de vaporização rápida (ff4)",SO2,2009,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - sistema de oxidação térmica de cov's (ff6)",SO2,2007,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - sistema de recuperaçao de solventes (ff2)",NOx,2009,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - sistema de recuperação de solventes (ff2)",NOx,2008,1
+"amcor flexibles leaderpack - embalagens flexíveis, lda - sistema de recuperação de solventes (ff3)",NOx,2009,1
+amcor tobacco packaging - ff2 - incinerador (sistema de tratamento de cov - rto) - entrada,CO,2015,1
+amcor tobacco packaging - ff2 - incinerador (sistema de tratamento de cov - rto) - entrada,NOx,2015,1
+"amorim & irmãos, s.a. - unidade industrial de champanhe - caldeira a biomassa n.º 2",SO2,2008,1
+"amorim & irmãos, s.a. - unidade industrial de champanhe - caldeira a biomassa n.º 2",SO2,2009,1
+"amorim & irmãos, s.a. - unidade industrial de champanhe - ventiladores do processo (filtros 2 e 3)",CO,2008,1
+"amorim & irmãos, s.a. - unidade industrial de champanhe - ventiladores do processo (filtros 2 e 3)",NOx,2008,1
+"amorim & irmãos, s.a. - unidade industrial de champanhe - ventiladores do processo (filtros 2 e 3)",SO2,2008,1
+antónio abreu marques gomes - cabine de pintura,CO,2018,1
+"antónio da silva & filhos, lda - estufa",NOx,2017,1
+"apadil - armaduras, plásticos e acessórios de iluminação, s.a. - 62 - forno de polimerização - estufa de pintura 1",NOx,2018,1
+"apadil - armaduras, plásticos e acessórios de iluminação, s.a. - 62 - forno de polimerização - estufa de pintura 2",NOx,2018,1
+"arcelormittal construção portugal, s.a. - espumagem",CO,2015,1
+"arcelormittal construção portugal, s.a. - espumagem",NOx,2015,1
+"arcelormittal construção portugal, s.a. - tratamento plasma",CO,2015,1
+"arcelormittal construção portugal, s.a. - tratamento plasma",NOx,2015,1
+"arneg portuguesa , lda - ff13- exaustão do estágio de passivação",CO2,2017,1
+"arneg portuguesa , lda - ff13- exaustão do estágio de passivação",NOx,2017,1
+"arneg portuguesa , lda - ff13- exaustão do estágio de passivação",O2,2017,1
+"arneg portuguesa , lda - ff18- exaustão da cabine deo forno de polimerização",CO2,2017,1
+"arneg portuguesa , lda - ff18- exaustão da cabine deo forno de polimerização",O2,2017,1
+"arneg portuguesa , lda - ff2- queimador do banho de desengorduramento",CO,2017,1
+"arneg portuguesa , lda - ff6 -exaustão da cabine de pintura- esquerda",CO2,2017,1
+"arneg portuguesa , lda - ff6 -exaustão da cabine de pintura- esquerda",NOx,2017,1
+"arneg portuguesa , lda - ff6 -exaustão da cabine de pintura- esquerda",O2,2017,1
+"arneg portuguesa, lda - ff5- exaustão da cabine de pintura- direita",CO2,2017,1
+"arneg portuguesa, lda - ff5- exaustão da cabine de pintura- direita",NOx,2017,1
+"arneg portuguesa, lda - ff5- exaustão da cabine de pintura- direita",O2,2017,1
+"aspiração linhas de oxidação, fosfatação e máquinas de desengorduramento com tricloroetileno (5)",CO,2006,1
+"aspiração linhas de oxidação, fosfatação e máquinas de desengorduramento com tricloroetileno (5)",SO2,2006,1
+"augusto gonçalves moreira & irmão, s.a. - chaminé da pintura",NOx,2016,1
+"auto gamarros, lda - zona de preparação de pintura 2",CO,2016,1
+"auto j. clemente, lda - estufa 2",CO,2017,1
+"auto marreiros de lucília & emanuel marreiros, lda - estufa de pintura",CO,2016,1
+"auto nogueira, lda - estufa",NOx,2016,1
+auto reparadora central do jamor - estufa 1,CO,2016,1
+"auto rosário, lda - estufa de pintura",CO,2016,1
+"autoeuropa- automóveis, lda - sprarybooth",NOx,2018,1
+"autoneum portugal, lda - extractor 1 (máq. inj)",CO,2015,1
+"autoneum portugal, lda - extractor 1 (máq. inj)",NOx,2015,1
+"autoneum portugal, lda - extractor 2 (máq. inj.)",CO,2015,1
+"autoneum portugal, lda - extractor 2 (máq. inj.)",NOx,2015,1
+"autoneum portugal, lda - extrator 3 (cabine de pintura)",NOx,2017,1
+"autoneum portugal, lda - moldadora m05 - 2pa03m05",NOx,2015,1
+"autoneum portugal, lda - moldadora m08 - 2pa08m08",CO,2015,1
+"autoneum portugal, lda - moldadora m08 - 2pa08m08",NOx,2015,1
+"autoneum portugal, lda - moldadora m10 - 2pa07m10",CO,2015,1
+"autoneum portugal, lda - moldadora m10 - 2pa07m10",NOx,2015,1
+"autoneum portugal, lda - moldadora m12 - 2pa08m12",CO,2015,1
+"autoneum portugal, lda - moldadora m12 - 2pa08m12",NOx,2015,1
+"axalta coatings systems portugal, s. a. - estufa de pintura",NOx,2018,1
+"axalta coatings systems portugal, s.a. - baia de preparação",NOx,2018,1
+"bakemark portugal - panificação e pastelaria, s.a. - forno 1",SO2,2007,1
+"bakemark portugal - panificação e pastelaria, s.a. - forno 2",SO2,2007,1
+"bakemark portugal - panificação e pastelaria, s.a. - forno 4",SO2,2007,1
+"bakemark portugal - panificação e pastelaria, s.a. - forno 6",SO2,2007,1
+"bandague - recauchutagem de pneus a frio, s. a. - fábrica de pontão - 4816 - ff3 - cabine de escarificação e raspadoras",CO,2016,1
+"bandague - recauchutagem de pneus a frio, s. a. - fábrica de pontão - 4816 - ff3 - cabine de escarificação e raspadoras",NOx,2016,1
+"bandague - recauchutagem de pneus a frio, s. a. - fábrica de pontão - 4817 - ff1 - cabine de aplicação de cola",CO,2016,1
+"bandague - recauchutagem de pneus a frio, s. a. - fábrica de pontão - 4817 - ff1 - cabine de aplicação de cola",NOx,2016,1
+"bandague- recauchutagem de pneus a frio, s.a. - fábrica de braga - ff1- escarificação - raspadoras",NOx,2016,1
+"batistas - reciclagem de sucatas, s.a. - ff3 - extração localizada para a fonte pontual da linha 2",NOx,2018,1
+beligaz - empresa de cogeração a gás natural - cogeração,SO2,2010,1
+"belisotex confecções, s.a. - caldeira",CO,2009,1
+"belisotex confecções, s.a. - caldeira",SO2,2009,1
+bilhares ferreira da costa - estufa de pintura,NOx,2008,1
+bls-cl01,NO2,2009,1
+"bosch car multimedia portugal, lda - chaminé da exaustão do brg 101- piso 1",CO,2009,1
+"bosch car multimedia portugal, lda - chaminé da exaustão do brg 101- piso 2",CO,2009,1
+"bosch car multimedia portugal, lda - chaminé da exaustão do brg 101- piso 2",NOx,2009,1
+"bratécnica - reclamos luminosos, lda - cabine de pintura",NOx,2016,1
+"bresfor - indústria do formol, s. a. - ff2 - conversor ii",SO2,2010,1
+"brieftime indústria e comércio de produtos alimentares, s.a. - forno - entrada",NOx,2016,1
+"brieftime indústria e comércio de produtos alimentares, s.a. - forno - saída",NOx,2016,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff10 - queimador de climatização da sala de envernizamento madeira",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff13- aspiração do túnel de tiro da gold",CO,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff13- aspiração do túnel de tiro da gold",NOx,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff13- aspiração do túnel de tiro da gold",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff14 - aspiração túnel de tiro de prova",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff16 - queimador do forno de cozedura da pintura metal",CO,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff16 - queimador do forno de cozedura da pintura metal",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff17 - estufa da camuflagem",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff18 - queimador de climatização da sala de camuflagem",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff2 - cabine de pintura com tintas epóxi (pintura metálica)",CO,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff4 - cabines de pintura da camuflagem",CO,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff4 - cabines de pintura da camuflagem",NOx,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff4 - cabines de pintura da camuflagem",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff6 - aspiração do polimento de metais",CO,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff6 - aspiração do polimento de metais",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff8 - aspiração do polimento select",NOx,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff8 - aspiração do polimento select",SO2,2007,1
+"browning viana - fábrica de armas e artigos de desporto, s.a. - ff9 - cabines de aplicação de verniz e velatura (madeira)",NOx,2007,1
+cabine de pintura com tintas epóxi,NOx,2006,1
+cabine de pintura com tintas epóxi,SO2,2006,1
+"caima - indústria de celulose, s. a. - ff2 - caldeira de biomassa",SO2,2014,1
+"caixiave - indústria de caixilharia, s.a. - cabine de pintura 2",CO,2009,1
+"caixiave - indústria de caixilharia, s.a. - cabine de pintura 2",NOx,2009,1
+"caixiave - indústria de caixilharia, s.a. - curvar perfis de pvc",CO,2009,1
+"camarc - carpintaria e marcenaria de arouca, lda - cabine de pintura 1 - revestimento",NOx,2009,1
+"candigrés - cerâmica e grés da candieira, lda - estufa",CO,2007,1
+"candigrés - cerâmica e grés da candieira, lda - estufa",SO2,2007,1
+"car- atlântica- sociedade de comércio e serviços automóveis, s. a. - área de preparação",CO,2017,1
+carlos alberto gomes duarte - estufa,NOx,2016,1
+"carlos pena unipessoal, lda - extracção da pintura",NOx,2009,1
+"carlos pena unipessoal, lda - extracção da pintura",SO2,2009,1
+cartonagem trindade - indústria s.a. - compressor becker (nº11),NOx,2016,1
+cartonagem trindade - indústria s.a. - máquina de impressão kba rapida 106 - secador (nº8),NOx,2016,1
+cartonagem trindade - indústria s.a. - máquina de impressão kba rapida 106 - secador uv (nº9),NOx,2016,1
+"cartonagem trindade, s.a. - exaustão da máquina de verniz",SO2,2008,1
+casal marra,NO,2018,1
+casal marra,NO2,2018,1
+casal marra,NOx,2018,1
+casal marra,Temperature,2018,4
+casal meio,CO,2018,9
+casal meio,NO2,2018,13
+casal s. joao,Temperature,2018,13
+casal s. joão,Temperature,2018,13
+casinima - empreitada ponte da baía ace- etar ponte da baía - torre de desodorização,NOx,2016,1
+castanheira do ribatejo.2019,PM10,2020,12
+castelo.paiva.2018,SO2,2018,2
+castelo.paiva.2018 copy,CO,2018,15
+castelo.paiva.2018 copy,NO,2018,3
+castelo.paiva.2018 copy,SO2,2018,4
+castelo.paiva_1.2018,SO2,2018,22
+castelo.paiva_2.2018,SO2,2018,2
+"celar - alúminios de cesar, s.a. - revestimento por rolos",NOx,2011,1
+celbi - forno da cal,CO,2011,1
+cgc-xs01,SO2,2012,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas da máquina de ensacar nº2,CO,2008,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas da máquina de ensacar nº2,NOx,2008,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas da máquina de ensacar nº2,SO2,2008,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas do moinho n.º 4,CO,2007,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas do moinho n.º 4,NOx,2007,1
+cimpor - fábrica de cal hidráulica do cabo mondego - filtro de mangas do moinho n.º 4,NOx,2008,1
+"cires - companhia industrial de resinas sintéticas, s.a. - e-pvc (b-405)",NOx,2008,1
+"cires - companhia industrial de resinas sintéticas, s.a. - e-pvc (b-405)",SO2,2008,1
+"cires - companhia industrial de resinas sintéticas, s.a. - e-pvc (b-406)",NOx,2008,1
+"cires - companhia industrial de resinas sintéticas, s.a. - e-pvc (b-406)",SO2,2008,1
+"cires - companhia industrial de resinas sintéticas, s.a. - un-7601",SO2,2008,1
+"citergaz - caldeiraria e manutenção, lda - cabine de pintura (cp1)",CO,2007,1
+"citergaz - caldeiraria e manutenção, lda - cabine de pintura (cp2)",NOx,2007,1
+"citergaz - caldeiraria e manutenção, lda - exaustão da decapagem (ed)",CO,2007,1
+"clc - companhia logística de combustíveis, s. a. - carrossel de enchimento de gpl nº 5",CO,2016,1
+"cmg cerâmicas, lda - máquina de aplicação de decalques (22)",SO2,2014,1
+"cmg cerâmicas, lda - máquina de vidrar da pintura (16)",CO,2018,1
+"cmp - cimentos de maceira e pataias, s.a. - caldeira 3",SO2,2007,1
+"cmp - cimentos maceira e pataias, s.a. - arrefecedor 5",CO2,2008,1
+"cmp - cimentos maceira e pataias, s.a. - arrefecedor 5",NOx,2008,1
+"cmp - cimentos maceira e pataias, s.a. - arrefecedor 5",O2,2008,1
+"cmp - cimentos maceira e pataias, s.a. - moinho de carvão 2",CO2,2008,1
+"cmp - cimentos maceira e pataias, s.a. - moinho de carvão 2",NOx,2008,1
+"cmp - cimentos maceira e pataias, s.a. - moinho de carvão 2",O2,2008,1
+"cmp – cimentos maceira e pataias, s.a. (fábrica cibra-pataias) - moinho de carvão 1",NOx,2007,1
+"cmp – cimentos maceira e pataias, s.a. (fábrica cibra-pataias) - moinho de carvão 1",SO2,2007,1
+"cmp-cimentos maceira e pataias, s.a. [fábrica de maceira-liz] - ff5 - moinho de carvão 1",CO,2010,1
+"cmp-cimentos maceira e pataias, s.a. [fábrica de maceira-liz] - ff5 - moinho de carvão 1",CO2,2010,1
+cmt-mc01-metais,NOx,2007,1
+cmt-mc01-metais,SO2,2007,1
+"cobaburg - indústria de mobiliário, lda - cabine de pintura",SO2,2013,1
+"coficab portugal - companhia de fios e cabos, lda - caldeira de aquecimento",SO2,2011,1
+"coficab portugal - companhia de fios e cabos, lda - extrusão das linhas 1 e 2",CO,2011,1
+"coficab portugal - companhia de fios e cabos, lda - extrusão das linhas 1 e 2",SO2,2011,1
+"coficab portugal - companhia de fios e cabos, lda - linha de silicone",CO,2011,1
+"coficab portugal - companhia de fios e cabos, lda - linha de silicone",NOx,2011,1
+"coficab portugal - companhia de fios e cabos, lda - linha de silicone",SO2,2011,1
+"coficab portugal - companhia de fios e cabos, lda. - 10550 - extrusora 2",CO,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 10550 - extrusora 2",NOx,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 10984 - extrusora 5",NOx,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 10985 - extrusora 6",CO,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 10985 - extrusora 6",NOx,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 4813 - trefilagem da linha 4",CO,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - 4813 - trefilagem da linha 4",NOx,2017,1
+"coficab portugal - companhia de fios e cabos, lda. - linha 12",NOx,2016,1
+"colaliz - cimento cola do liz, lda - ventilador das balanças - piso 2",CO,2015,1
+"colibri - sociedade artes gráficas, lda - máquina de encadernar",CO,2007,1
+"colunex portuguesa - indústria e distribuição de sistemas de descanso, s. s., lda - caldeira doméstica",SO2,2009,1
+"colunex portuguesa - indústria e distribuição de sistemas de descanso, s. s., lda - exaustão da cabine de pintura",NOx,2009,1
+"colunex portuguesa - indústria e distribuição de sistemas de descanso, s. s., lda - exaustão da cabine de pintura",SO2,2009,1
+"colunex portuguesa - indústria e distribuição de sistemas de descanso, s. s., lda - queimador da cabine de pintura",SO2,2009,1
+"companhia carris de ferro de lisboa, s.a. - cabine de pintura (estação de serviço)",CO2,2017,1
+"companhia carris de ferro de lisboa, s.a. - cabine de pintura (estação de serviço)",O2,2017,1
+"copo têxtil portugal, s.a. - foamização 1",NOx,2017,1
+"cromotorres - cromagem e zincagem, lda - ff3 - exaustão da cabine de pintura",NOx,2008,1
+"cromotorres - cromagem e zincagem, lda - ff3 - exaustão da cabine de pintura",SO2,2008,1
+"cromotorres - cromagem e zincagem, lda - ff4 - exaustão da cabine de pintura",SO2,2008,1
+"cromotorres - cromagem e zincagem, lda - ff5 – queimador desengorduramento electrolítico ii",SO2,2008,1
+"ctr-consultoria, técnica e representações, lda - cabine de impregnação inseticida portátil",CO,2015,1
+"ctr-consultoria, técnica e representações, lda - estufa de cerâmicas",CO,2015,1
+"ctr-consultoria, técnica e representações, lda - linha de enchimento de cerâmicas",CO,2015,1
+"ctr-consultoria, técnica e representações, lda - sala de evaporações",CO,2015,1
+"ctr-consultoria, técnica e representações, lda - área de preparação de misturas ( nave 1)",CO,2015,1
+câmara municipal de lisboa divisão drmm - olivais - cabine de pintura,CO,2011,1
+câmara municipal de lisboa divisão drmm - olivais - área de preparação,CO,2011,1
+"código exacto - unipessoal, lda - cabine de pintura nº 2",CO,2012,1
+"código exacto - unipessoal, lda - cabine de pintura nº 2",NOx,2012,1
+"código exacto - unipessoal, lda - cabine de pintura nº 2",SO2,2012,1
+d0,NO,2007,1
+d0,NO2,2007,65
+d0,NOx,2007,22
+d0,Temperature,2007,87
+d1,CO,2008,51
+d1,NO,2007,34
+d1,NO,2008,32
+d1,NO2,2007,6
+d1,NO2,2008,19
+d1,NOx,2008,17
+d1,SO2,2008,2
+d1.r4,NO2,2011,1
+"e.3,1",NO,2007,1
+"e.3,1",NO2,2007,3
+"e.3,1",Temperature,2008,28
+e1.0,NO,2008,1
+e1.0,NO2,2007,38
+e1.0,NO2,2008,55
+e1.0,NOx,2008,26
+e1.0,Temperature,2008,12
+e1.1,NO,2007,37
+e1.1,NO,2008,1
+e1.1,NO2,2007,69
+e1.1,NO2,2008,1
+e1.1,NOx,2008,1
+e2.0,NO,2007,8
+e2.0,NO2,2007,109
+e2.0,NOx,2007,73
+e2.0,Temperature,2007,9
+e2.1,NO,2007,8
+e2.1,NO2,2007,38
+e2.1,NOx,2007,33
+e2.1,Temperature,2007,15
+e2.2,NO2,2007,29
+e2.2,NOx,2007,10
+e2.2,Temperature,2007,12
+"e3,0",NO,2007,24
+"e3,0",NO2,2007,27
+"e3,0",Temperature,2008,3
+"ecco´let (portugal) - fábrica de sapatos, lda - f1 - extracção da máquina de injecção 1 e 2 - pavilhão 3",CO,2018,1
+exaustão 1 da estufa 1,CO,2006,1
+exaustão 1 da estufa 1,NOx,2006,1
+exaustão 1 da estufa 1,SO2,2006,1
+exaustão 2 da estufa 1,NOx,2006,1
+exaustão 2 da estufa 1,SO2,2006,1
+exaustão da estufa 3 eléctrica,CO,2006,1
+exaustão da estufa 3 eléctrica,SO2,2006,1
+fonte marcos,NO2,2018,1
+"fábrica de candeeiros m. a. f. castro, s. a. - ciclone (pintura eletrostática)",NOx,2017,1
+"fábrica de candeeiros m. a. f. castro, s. a. - estufa (secagem)",CO,2017,1
+"fábrica de candeeiros m. a. f. castro, s. a. - estufa (secagem)",NOx,2017,1
+gabes.2012,NO2,2012,2
+gabes.2012,NOx,2012,7
+global_2006_2024,Temperature,2020,18
+global_2006_2024,Temperature,2021,76
+global_2006_2024,Temperature,2022,5
+h.m4,NO2,2011,1
+ic.32.ch.caparica.2012,PM10,2012,1
+ic9.casal.s.joao.2013,Temperature,2013,57
+ic9.casal.s.joão.2013,Temperature,2013,57
+ic9.f.marcos.2013,Temperature,2013,1
+ilhavo.2017,NO2,2017,60
+ilhavo.2017,NOx,2017,38
+ilhavo.2017,SO2,2017,73
+ilhavo.vagos.2006,Temperature,2006,3
+l2,NO,2018,15
+l2,Xylenes,2022,4
+l3.p3,NO2,2009,99
+l3.p3,NOx,2009,55
+l4.p5,NO,2009,41
+l4.p5,NO2,2009,11
+l4.p5,NOx,2009,21
+l5.p2,NO,2009,12
+"laboratórios atral, s. a. - despoeirador torit 2 (extração de ar das salas a 30 % humidade)",NOx,2018,1
+"laboratórios atral, s. a. - ff2 - extração da drageadora da sala 9",NOx,2018,1
+"laboratórios atral, s. a. - ff3 - despoeirador torit 1 (extração de ar das salas a 20 % humidade)",NOx,2018,1
+"laboratórios atral, s. a. - ff4 - despoeirador torit 3 (extração de ar das salas de drageamento, lavagem/secagem e mistura)",NOx,2018,1
+linha de anodização (2),NOx,2006,1
+linha de decapagem de solda (6),CO,2006,1
+linha de decapagem de solda (6),SO2,2006,1
+loulé.2019,CO,2020,6
+loulé.2019,NO,2019,2
+loulé.2019,NO,2020,89
+loulé.2019,PM10,2020,28
+loulé.2019,SO2,2020,3
+loures.2019,NO2,2019,6
+"m. coutinho centro, s.a. - estufa de secagem 2",NOx,2017,1
+"m. coutinho centro, s.a. - área de preparação de viaturas nova verta - nascente",CO,2017,1
+"m. coutinho centro, s.a. - área de preparação de viaturas nova verta - nascente",NOx,2017,1
+"m. coutinho centro, s.a. - área de preparação de viaturas nova verta - poente",CO,2017,1
+"m. coutinho centro, s.a. - área de preparação de viaturas nova verta - poente",NOx,2017,1
+"m. coutinho colisão, lda - paredes - exaustão #1 - estufa de pintura pequena (queimador a gasóleo)",NOx,2017,1
+"m. coutinho colisão, lda - paredes - exaustão #2 - zona de preparação",NOx,2017,1
+"m. coutinho colisão, lda - paredes - exaustão #3 - estufa de pintura grande (queimador pellets)",NOx,2017,1
+madeira_1.2017,NO2,2017,19
+"mcoutinho colisão, lda - cabine de pintura nº 2",NOx,2018,1
+"omya comital - mineirais e especialidades, s.a. - exaustão do despoeiramento da britagem de carbonatos (c8)",CO,2009,1
+"omya comital - mineirais e especialidades, s.a. - exaustão do despoeiramento da britagem de carbonatos (c8)",NOx,2009,1
+"omya comital - mineirais e especialidades, s.a. - exaustão do despoeiramento da britagem de talcos (c7)",CO,2009,1
+"omya comital - mineirais e especialidades, s.a. - exaustão do despoeiramento da britagem de talcos (c7)",NOx,2009,1
+"omya comital - minerais e especialidades, s.a. - despoeiramento do ensaque da secagem",NOx,2008,1
+"omya comital - minerais e especialidades, s.a. - despoeiramento do ensaque da secagem",SO2,2008,1
+"omya comital - minerais e especialidades, s.a. - despoeiramento do ensaque dos talcos",NOx,2008,1
+"omya comital - minerais e especialidades, s.a. - despoeiramento do ensaque dos talcos",SO2,2008,1
+p1,NO,2016,3
+p1,NO,2017,130
+p1,NO,2018,33
+p1,NO,2019,5
+p1,NO,2022,2
+p1,NO2,2008,44
+p1,NO2,2016,1
+p1,NO2,2017,8
+p1,NO2,2018,8
+p1,NO2,2019,11
+p1,NOx,2008,37
+p1,NOx,2017,6
+p1,NOx,2019,1
+p1,O3,2008,6
+p1,Radiation,2008,95
+p1,SO2,2008,178
+p1,SO2,2018,3
+p1,SO2,2019,82
+p1,Temperature,2023,11
+p1,Temperature,2024,19
+p1,WindSpeed,2015,190
+p1.asantas.este,NO,2015,1
+p1.asantas.este,NO,2019,68
+p1.asantas.oeste,NO,2019,19
+p1.asantas.oeste,NO2,2019,2
+p1.av.republica.norte,Radiation,2003,90
+p1.av.republica.sul,Precipitation,2003,2
+p1.av.republica.sul,Radiation,2003,91
+p1.cast.branco,NO,2003,1
+p1.cast.branco,Precipitation,2002,1
+p1.cast.branco,Radiation,2002,27
+p1.cast.branco,Radiation,2003,26
+p1.cast.branco,Radiation,2004,1
+p1.cast.branco,SO2,2003,6
+p1.cast.branco,SO2,2005,21
+p1.coimbra,Radiation,2002,40
+p1.coimbra,Radiation,2003,27
+p1.ferreiros,Radiation,2003,111
+p1.gafanha,NO,2023,1
+p1.gafanha,NO2,2017,10
+p1.gafanha,O3,2017,1
+p1.gafanha,Temperature,2020,2
+p1.grijo oeste,NO,2003,1
+p1.grijo oeste,NO,2006,8
+p1.grijo oeste,NO,2009,11
+p1.grijo oeste,NO,2015,22
+p1.grijo oeste,NO2,2006,2
+p1.grijo oeste,NO2,2009,1
+p1.grijo oeste,NO2,2015,1
+p1.grijo oeste,NOx,2006,2
+p1.grijo oeste,NOx,2009,5
+p1.grijo oeste,O3,2003,7
+p1.grijo oeste,O3,2009,1
+p1.grijo oeste,PM10,2012,36
+p1.grijo oeste,PM10,2013,21
+p1.grijo oeste,PM25,2012,17
+p1.grijo oeste,PM25,2013,38
+p1.grijo oeste,Particles,2012,17
+p1.grijo oeste,Particles,2013,38
+p1.grijo oeste,WindSpeed,2012,316
+p1.grijo.este,NO,2003,5
+p1.grijo.este,NO,2009,38
+p1.grijo.este,NO,2010,1
+p1.grijo.este,NO2,2009,39
+p1.grijo.este,NOx,2009,16
+p1.grijo.este,O3,2009,2
+p1.grijo.este,PM10,2010,3
+p1.grijo.este,PM25,2014,1
+p1.grijo.este,Particles,2014,1
+p1.grijo.este,Radiation,2002,209
+p1.grijo.este,Radiation,2004,29
+p1.grijo.este,SO2,2009,343
+p1.grijo.este,SO2,2012,67
+p1.grijo.este,WindSpeed,2012,316
+p1.matosinhos,NO,2002,14
+p1.matosinhos,NO2,2002,3
+p1.matosinhos,NOx,2002,4
+p1.matosinhos,SO2,2003,10
+p1.ovar.este,PM10,2012,30
+p1.ovar.este,PM10,2013,6
+p1.ovar.este,WindSpeed,2013,38
+p1.ovar.oeste,Temperature,2012,12
+p1.ovar.oeste,WindSpeed,2014,1
+p1.perosinho,NO,2003,5
+p1.perosinho,NO,2009,6
+p1.perosinho,NO2,2009,3
+p1.perosinho,Radiation,2002,189
+p1.perosinho,Radiation,2003,29
+p1.perosinho,SO2,2009,347
+p1.pq.nacoes,Radiation,2002,62
+p1.pq.nacoes,Radiation,2004,66
+p1.pq.naçoes,CO,2009,1
+p1.pq.naçoes,CO,2010,25
+p1.pq.naçoes,NO,2008,38
+p1.pq.naçoes,NO,2009,32
+p1.pq.naçoes,NO2,2010,2
+p1.pq.naçoes,NOx,2010,1
+p1.pq.naçoes,Precipitation,2011,47
+p1.pq.naçoes,Radiation,2002,62
+p1.pq.naçoes,Radiation,2004,66
+p1.pq.naçoes,SO2,2007,76
+p1.pq.naçoes,SO2,2008,125
+p1.pq.naçoes,SO2,2010,94
+p1.pq.naçoes,CO,2009,1
+p1.pq.naçoes,CO,2010,25
+p1.pq.naçoes,NO,2008,38
+p1.pq.naçoes,NO,2009,32
+p1.pq.naçoes,NO2,2010,2
+p1.pq.naçoes,NOx,2010,1
+p1.pq.naçoes,Precipitation,2011,47
+p1.pq.naçoes,Radiation,2002,62
+p1.pq.naçoes,Radiation,2004,66
+p1.pq.naçoes,SO2,2007,76
+p1.pq.naçoes,SO2,2008,125
+p1.pq.naçoes,SO2,2010,94
+p1.rmeao.oeste,PM10,2012,28
+p1.rmeao.oeste,PM10,2013,7
+p1.rmeao.oeste,Temperature,2007,4
+p1.rmeao.oeste,Temperature,2009,2
+p1.rmeao.oeste,Temperature,2010,1
+p1.rmeao.oeste,WindSpeed,2011,173
+p1.rmeao.oeste,WindSpeed,2012,42
+p1.sjver.este,CO,2009,1
+p1.sjver.este,NO,2009,28
+p1.sjver.este,NOx,2009,3
+p1.sjver.este,PM10,2010,22
+p1.sjver.este,Radiation,2007,1
+p1.sjver.este,WindSpeed,2011,173
+p1.sjver.este,WindSpeed,2012,42
+p1.viseu.norte,NO,2002,1
+p1.viseu.norte,NO,2004,1
+p1.viseu.norte,Radiation,2002,98
+p1.viseu.norte,Radiation,2004,5
+p1.viseu.norte,Radiation,2005,5
+p1.viseu.sul,Radiation,2002,39
+p1.viseu.sul,Radiation,2003,2
+p10+375,WindSpeed,2011,21
+p12+425,Temperature,2012,4
+p12+425,WindSpeed,2011,59
+p13,NO2,2010,1
+p2,CO,2010,4
+p2,NO,2016,7
+p2,NO,2017,1
+p2,NO,2019,48
+p2,NO,2022,2
+p2,NO2,2017,37
+p2,SO2,2008,1
+p2,SO2,2016,14
+p2,SO2,2017,2
+p2,SO2,2019,25
+p2,SO2,2025,1
+p2,WindSpeed,2015,4
+p2 casal s.joao,Temperature,2023,42
+p2 casal s.joão,NO2,2023,1
+p2 casal s.joão,Temperature,2023,42
+p2.cast.branco,Radiation,2002,67
+p2.cast.branco,Radiation,2003,26
+p2.matosinhos,NO,2002,6
+p2.matosinhos,NO2,2002,1
+p2.matosinhos,NOx,2002,1
+p2.matosinhos,O3,2003,1
+p2.matosinhos,Radiation,2003,63
+p3,NO,2009,1
+p3,NO2,2009,11
+p3,NOx,2009,5
+p3,SO2,2009,4
+p3,WindSpeed,2015,17
+p3 quinta da carvalha,Temperature,2023,3
+p3.matosinhos,NO,2002,19
+p3.matosinhos,NO2,2002,3
+p3.matosinhos,NOx,2002,2
+p3.matosinhos,O3,2003,1
+p3.matosinhos,Radiation,2003,60
+p4,NO,2018,3
+p4,NO2,2019,2
+p4,SO2,2009,14
+p4,SO2,2019,35
+p4,Temperature,2009,10
+p4,WindSpeed,2015,23
+p4.matosinhos,NO,2002,77
+p4.matosinhos,NO2,2002,65
+p4.matosinhos,NOx,2002,68
+p4.matosinhos,Radiation,2003,58
+p5,CO,2019,15
+p5,NO,2009,1
+p5,NO,2018,1
+p5,O3,2018,1
+p5,O3,2019,19
+p5,Radiation,2009,94
+p5,SO2,2009,2
+p5,SO2,2019,114
+p5,Temperature,2009,11
+p5,WindSpeed,2016,112
+p5,WindSpeed,2017,15
+p57,NO,2010,3
+p6,NO,2009,6
+p6,NO2,2009,8
+p6,O3,2019,4
+p6,SO2,2009,4
+p6,SO2,2019,60
+p6,WindSpeed,2009,1
+p7,NO2,2009,5
+p7,NOx,2009,4
+p7,PM25,2009,12
+p7,Particles,2009,12
+p8,NO,2009,39
+p8,NO2,2009,3
+p8,PM25,2009,12
+p8,Particles,2009,12
+p8,SO2,2009,1
+p9,NO2,2009,42
+p9,PM25,2009,12
+p9,Particles,2009,12
+pederneira,CO,2018,9
+pederneira,NO,2018,40
+pederneira,NO2,2018,5
+pederneira,NOx,2018,6
+pederneira.2011_2012,Temperature,2011,5
+penafiel.2007,Radiation,2007,32
+"peugeot citroën automóveis portugal, s.a. - exaustão da cabine de retoques 5 (boud'usine)",CO,2007,1
+"peugeot citroën automóveis portugal, s.a. - exaustão da cabine de retoques 5 (boud'usine)",SO2,2007,1
+"peugeot citroën automóveis portugal, s.a. - ff11-exaustão de saída da estufa de cataforese",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff11-exaustão de saída da estufa de cataforese",NOx,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff11-exaustão de saída da estufa de cataforese",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff14-queimador da estufa de cataforese",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff15-3 caldeiras de processo",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff17-exaustão da cabine de ceras (btu)",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff17-exaustão da cabine de ceras (btu)",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff19-queimador da cabine de retoques (boud' usine)",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff20 - exaustão da cabine de retoques (pintura)",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff20 - exaustão da cabine de retoques (pintura)",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff27 - exaustão da cabine de lacas 2",CO,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff27 - exaustão da cabine de lacas 2",SO2,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff28 - cabine de preparação das tintas",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff28 - cabine de preparação das tintas",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff5- exaustão da cabine de aparelhos",NOx,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff5- exaustão da cabine de aparelhos",SO2,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff6 - exaustão da cabine de lacas (2+3)",SO2,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff7 - exaustão da cabine de lacas 1 (nova)",CO,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff7 - exaustão da cabine de lacas 1 (nova)",SO2,2011,1
+"peugeot citroën automóveis portugal, s.a. - ff7-exaustão da cabine de lacas 1 (nova)",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff7-exaustão da cabine de lacas 1 (nova)",NOx,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff7-exaustão da cabine de lacas 1 (nova)",SO2,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff9-estufa de aparelhos (incinerador) - montante",CO,2009,1
+"peugeot citroën automóveis portugal, s.a. - ff9-estufa de aparelhos (incinerador) - montante",SO2,2009,1
+pk10,NO,2009,278
+pk10,NO2,2008,34
+pk10,NO2,2009,250
+pk10,NOx,2008,3
+pk10,NOx,2009,244
+pk10,SO2,2008,224
+pk10,SO2,2009,680
+pk10,WindSpeed,2010,3
+pk10,WindSpeed,2011,37
+pk10+000,WindSpeed,2011,23
+pk10+300,NO,2008,168
+pk10+300,NO,2009,207
+pk10+300,NO2,2008,3
+pk10+300,NO2,2009,147
+pk10+300,NOx,2008,47
+pk10+300,NOx,2009,116
+pk10+300,Radiation,2008,318
+pk10+300,SO2,2008,189
+pk10+300,SO2,2009,532
+pk12,CO,2008,8
+pk12,NO,2008,3
+pk12,NO,2009,315
+pk12,NO2,2008,24
+pk12,NO2,2009,216
+pk12,NOx,2008,7
+pk12,NOx,2009,178
+pk12,SO2,2008,30
+pk12,SO2,2009,539
+pk14_2007,Radiation,2008,91
+pk14_2008,PM10,2008,24
+pk14_2009,CO,2009,12
+pk14_2009,NO,2009,52
+pk15,NO,2008,3
+pk15,NO2,2008,302
+pk15,NOx,2008,134
+pk15,PM10,2008,12
+pk15,Radiation,2008,220
+pk15+800,CO,2009,24
+pk15+800,NO,2009,580
+pk15+800,NO2,2009,26
+pk15+800,NOx,2009,31
+pk16+500e,WindSpeed,2011,4
+pk16+500w,WindSpeed,2011,4
+pk16_2007,Radiation,2008,92
+pk16_2008,NO2,2008,2
+pk16_2008,NOx,2008,1
+pk16_2008,PM10,2008,12
+pk16_2008,Radiation,2008,77
+pk16_2009,CO,2009,30
+pk16_2009,NO,2009,10
+pk17,NO2,2008,33
+pk17,Radiation,2008,295
+pk21_2007,NO2,2008,6
+pk21_2007,NOx,2008,3
+pk21_2007,Radiation,2008,93
+pk21_2007,Temperature,2007,39
+pk21_2008,NO2,2008,9
+pk21_2008,NOx,2008,2
+pk21_2008,Precipitation,2008,8
+pk21_2008,Radiation,2008,162
+pk21_2009,CO,2009,1
+pk21_2009,NO,2009,1
+pk22,NO2,2008,27
+pk22,Radiation,2008,151
+pk33,CO,2009,25
+pk33,NO,2009,278
+pk33,NO,2010,11
+pk33,NO2,2009,9
+pk33,NO2,2010,1
+pk33,NOx,2009,4
+pk33,NOx,2010,1
+pk33,Temperature,2009,7
+pk33+000,CO,2011,6
+pk4,NO,2008,74
+pk4,NO,2009,190
+pk4,NO2,2008,98
+pk4,NO2,2009,151
+pk4,NOx,2008,37
+pk4,NOx,2009,142
+pk4,PM10,2008,47
+pk4,Radiation,2008,545
+pk4,Radiation,2009,76
+pk4,SO2,2008,311
+pk4,SO2,2009,531
+pk4,SO2,2010,12
+pk4,WindDirection,2008,3
+pk4,WindSpeed,2010,11
+pk4+000,NO2,2011,11
+pk4+000,WindSpeed,2011,42
+pk48+800,Radiation,2008,77
+pk7+450,NO2,2010,2
+pk7+450,Temperature,2010,10
+portalegre.2019,NO,2019,6
+portalegre.2019,NO2,2019,1
+portalegre.2019,SO2,2019,13
+porto.2010,SO2,2010,34
+pq.nacões.2007,SO2,2007,76
+pq.naçoes.2008,NO,2008,38
+pq.naçoes.2008,NO,2009,27
+pq.naçoes.2008,SO2,2008,125
+pragal.2016,WindSpeed,2016,158
+pragal.2018,NO,2018,17
+pragal.2018,NO2,2018,1
+qta. carvalha,CO,2018,55
+qta. carvalha,NO,2018,3
+queimador da estufa 1,CO,2006,1
+queluz.2017,PM10,2017,6
+queluz.2017,WindSpeed,2017,2
+queluz.2019,NO,2019,19
+queluz.2019,NO2,2019,29
+sc_2022,WindDirection,2022,1
+schréder iluminação s.a. - ventilação 2 do túnel de secagem (ch2ts),CO,2010,1
+schréder iluminação s.a. - ventilação 3 do túnel de secagem (ch3ts),CO,2010,1
+schréder iluminação s.a. - ventilação 3 do túnel de secagem (ch3ts),NOx,2010,1
+schréder iluminação s.a. - ventilação 3 do túnel de secagem (ch3ts),SO2,2010,1
+"schréder iluminação, s.a. - exaustão 1 do túnel de tratamento (v1tt)",NOx,2007,1
+"schréder iluminação, s.a. - exaustão 1 do túnel de tratamento (v1tt)",SO2,2007,1
+"schréder iluminação, s.a. - exaustão 2 do túnel de tratamento (v2tt)",CO,2007,1
+"schréder iluminação, s.a. - exaustão 2 do túnel de tratamento (v2tt)",NOx,2007,1
+"schréder iluminação, s.a. - exaustão 2 do túnel de tratamento (v2tt)",SO2,2007,1
+"schréder iluminação, s.a. - queimador 1 do túnel de polimerização (q1tp)",SO2,2007,1
+"schréder iluminação, s.a. - queimador 1 do túnel de tratamento (q1tt)",SO2,2007,1
+"schréder iluminação, s.a. - queimador 2 do túnel de tratamento (q2tt)",SO2,2007,1
+"schréder iluminação, s.a. - ventilação 1 do túnel de secagem (ch1ts)",CO,2007,1
+"schréder iluminação, s.a. - ventilação 1 do túnel de secagem (ch1ts)",NOx,2007,1
+"schréder iluminação, s.a. - ventilação 1 do túnel de secagem (ch1ts)",SO2,2007,1
+"schréder iluminação, s.a. - ventilação 2 do túnel de secagem (ch2ts)",CO,2007,1
+"schréder iluminação, s.a. - ventilação 2 do túnel de secagem (ch2ts)",SO2,2007,1
+"schréder iluminação, s.a. - ventilação 3 do túnel de secagem (ch3ts)",CO,2007,1
+"schréder iluminação, s.a. - ventilação 3 do túnel de secagem (ch3ts)",NOx,2007,1
+"schréder iluminação, s.a. - ventilação 3 do túnel de secagem (ch3ts)",SO2,2007,1
+"sociedade de saboaria do bolhão, lda - caldeira",CO,2009,1
+"sociedade portuguesa do ar liquido, lda - casa de decapagem",NOx,2017,1
+"sociedade portuguesa do ar liquido, lda - chaminé 1 do processo de pintura manual",NOx,2017,1
+"sociedade portuguesa do ar liquido, lda - chaminé 2 do processo de pintura manual",NOx,2017,1
+"sociedade portuguesa do ar liquido, lda - processo de decapagem",NOx,2017,1
+souselas,Temperature,2022,11
+"turbogás - produtora energética, s.a. - caldeira auxiliar (ff4)",SO2,2009,1
+"uchiyama portugal- vedantes, lda - forno de secagem e cozedura de cola (ch4) (pl-23)",NOx,2014,1
+"uchiyama portugal- vedantes, lda - forno de secagem e cozedura de cola (ch4) (pl-23)",SO2,2014,1
+v.p.aguiar.2009,Temperature,2009,12
+"águas do norte, s.a. - etar paço de sousa - motor de cogeração ces 170m",NMVOC,2017,1
+"águas do tejo atlântico, s.a. | fábrica de água da guia - fase sólida - cg2 - ff4 - cogeração",NMVOC,2023,1

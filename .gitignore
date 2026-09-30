@@ -1,0 +1,23 @@
+# Environment files containing secrets
+.env
+.env.local
+
+# Build outputs & dependencies
+node_modules/
+venv/
+dist/
+build/
+
+Testing/
+.parquet
+
+
+# OS and IDE configuration files
+.DS_Store
+.vscode/
+.idea/
+*.log
+Data Analysis/value_conflicts_log.csv
+Data Analysis/value_conflicts_log.csv
+*.parquet
+*.pkl
