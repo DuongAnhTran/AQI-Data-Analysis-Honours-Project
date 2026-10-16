@@ -1,0 +1,4 @@
+,n_estimators,max_depth,min_samples_split
+pre,126,20,7
+during,63,7,8
+post,70,20,4
